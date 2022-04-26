@@ -7,6 +7,10 @@ A collection of awesome OpenSCAD resources
 IRC Freenode
 
 
+# Use OpenSCAD in Blender
+https://github.com/miguelitoelgrande/BlenderSCAD
+https://www.youtube.com/watch?v=aZq8ZlmqHJo
+
 
 ------------------------------
 
