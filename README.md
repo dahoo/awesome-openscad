@@ -6,7 +6,10 @@ Trying to bring harmony to OpenSCAD
 A collection of awesome OpenSCAD resources
 
 # OpenSCAD communities
-The biggest community of OpenSCAD people I've found is on the cadhub discord channel seems quite active and where SCAD fans congregate.
+* https://web.libera.chat/?channel=#openscad 
+* reddit.com/r/openscad
+* https://mastodon.social/web/tags/openscad
+* CadHub Discord: (see page for link)
 
 
 # 😘 Related Systems & Platforms
