@@ -15,8 +15,8 @@ The biggest community of OpenSCAD people I've found is on the cadhub discord cha
 
 
 # Use OpenSCAD in Blender
-https://github.com/miguelitoelgrande/BlenderSCAD
-https://www.youtube.com/watch?v=aZq8ZlmqHJo
+* https://github.com/miguelitoelgrande/BlenderSCAD
+* https://www.youtube.com/watch?v=aZq8ZlmqHJo
 
 
 ------------------------------
@@ -55,7 +55,6 @@ https://github.com/taxpon/openpyscad
 - popular & useful Libraries/tool-kits
   
 * https://github.com/htho/scadlib
-* 
 * dotSCAD v3.2
     https://github.com/JustinSDK/dotSCAD
     * archimedean spiral
