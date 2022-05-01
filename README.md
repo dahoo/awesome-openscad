@@ -6,8 +6,10 @@ Trying to bring harmony to OpenSCAD
 A collection of awesome OpenSCAD resources
 
 # OpenSCAD communities
-* https://web.libera.chat/?channel=#openscad 
-* reddit.com/r/openscad
+* [IRC](https://web.libera.chat/?channel=#openscad)
+* [IRC/Matrix.org bridge](https://matrix.to/#/#openscad:libera.chat)
+
+* [Reddit r/OpenSCAD](reddit.com/r/openscad)
 * https://mastodon.social/web/tags/openscad
 * CadHub Discord: (see page for link)
 
