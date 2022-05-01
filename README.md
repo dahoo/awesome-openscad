@@ -40,7 +40,7 @@ https://github.com/TheZoq2/Rust-Scad
 ### Python.🐍
 https://github.com/taxpon/openpyscad
     * https://github.com/mrkoz/python-threaded-openscad
-    - Projects
+    * Projects
         * https://awesomeopensource.com/project/karosc/pyDactyl
         * https://github.com/r4dr3fr4d/pykeeb
 
