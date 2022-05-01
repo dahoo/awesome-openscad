@@ -5,7 +5,8 @@ Trying to bring harmony to OpenSCAD
 # awesome-openscad [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A collection of awesome OpenSCAD resources
 
-IRC Freenode
+# OpenSCAD communities
+The biggest community of OpenSCAD people I've found is on the cadhub discord channel seems quite active and where SCAD fans congregate.
 
 
 # 😘 Related Systems & Platforms
