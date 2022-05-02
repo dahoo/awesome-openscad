@@ -17,22 +17,31 @@ If you have an openscad project and would like to be part of this list please ad
 # awesome-openscad [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A collection of awesome OpenSCAD resources
 
-# OpenSCAD communities
-* [IRC](https://web.libera.chat/?channel=#openscad)
+<iframe src="https://ghbtns.com/github-btn.html?user=elasticdotventures/awesome-openscad&type=follow&count=true&size=large" frameborder="0" scrolling="0" width="400" height="30" title="GitHub"></iframe>
+
+# Awesome communities
+* [https://github.com/openscad/openscad]()
+* [![Visit our IRC channel](https://kiwiirc.com/buttons/irc.libera.chat/openscad.png)](https://kiwiirc.com/client/irc.libera.chat/#openscad)
+
 * [IRC/Matrix.org bridge](https://matrix.to/#/#openscad:libera.chat)
 
-* [Reddit r/OpenSCAD](reddit.com/r/openscad)
+* [Reddit r/OpenSCAD](https://reddit.com/r/openscad)
 * https://mastodon.social/web/tags/openscad
 * CadHub Discord: (see page for link)
 
 
-# 😘 Related Systems & Platforms
-* https://github.com/CadQuery/cadquery
-* https://github.com/jmwright/cadhub
+## 😘 Acknowledge Related Systems & Similar Platforms
+* 🐍.python [CadQuery/cadquery]()
+* [OpenCascade]()
 
+# 👋 Platforms supporting OpenSCAD syntax
+// TODO: this should be a table
+* [openscad]() 
+* [freecad]()
+* [cadhub]()
+* [jsopenscad]()
+* [elasticdotventures/blender-openSCAD]()
 
-# Use OpenSCAD in Blender
-* https://github.com/miguelitoelgrande/BlenderSCAD
 * https://www.youtube.com/watch?v=aZq8ZlmqHJo
 
 
@@ -361,6 +370,9 @@ https://github.com/kwatters/DIYServo
     https://github.com/Harakan/litho_research
     * 
     https://awesomeopensource.com/project/willdurand/kicad-libs
+
+
+
 
 ------ LINE OF OBSOLENCE ------
 
