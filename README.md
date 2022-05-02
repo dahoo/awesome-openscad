@@ -36,16 +36,18 @@ A collection of awesome OpenSCAD resources
 
 # 👋 Platforms supporting OpenSCAD syntax
 // TODO: this should be a table suggesting environments & differences
-* [OpenSCAD](https://github.com/openscad/openscad)
-* [FreeCAD](https://github.com/FreeCAD/FreeCAD)
+* [OpenSCAD](https://github.com/openscad/openscad) the source of truth for everybody else.
+* [FreeCAD](https://github.com/FreeCAD/FreeCAD) a venerable free open-source tool that features an OpenSCAD workbench
+* [JSCAD](https://github.com/jscad/OpenJSCAD.org)
+    * previously known as OpenJSCAD, online self-hosteable web-based ui & CLI. 📢 
+    * 👀 Live Demo: [https://openjscad.xyz]()
 * [Visual Studio Code](https://github.com/Antyos/vscode-openscad)
     * Language Service Provider "LSP" module (should be compatible with any editor, but only tested on vs-code)
 * [cadhub](https://github.com/Irev-Dev/cadhub)
     * 👀 Live Demo: [https://cadhub.xyz/]()
-* [JSCAD](https://github.com/jscad/OpenJSCAD.org)
-    * previously known as OpenJSCAD, online self-hosteable web-based ui & CLI. 📢 
-    * 👀 Live Demo: [https://openjscad.xyz]()
 * [Blender](https://github.com/elasticdotventures/blender-openSCAD)
+* [Netbeans, VIM, Emacs, Atom]()
+    * 👎 unmaintained, possibly working: https://github.com/openscad/openscad/pull/3635  (29 commits ahead, 1038 commits behind master at time of writing)
 
 # 🍰 Parametric Geometry Syntax Sugar
 ### Libraries
