@@ -39,9 +39,11 @@ A collection of awesome OpenSCAD resources
 * [OpenSCAD](https://github.com/openscad/openscad)
 * [FreeCAD](https://github.com/FreeCAD/FreeCAD)
 * [Visual Studio Code](https://github.com/Antyos/vscode-openscad)
+    * Language Service Provider "LSP" module (should be compatible with any editor, but only tested on vs-code)
 * [cadhub](https://github.com/Irev-Dev/cadhub)
     * 👀 Live Demo: [https://cadhub.xyz/]()
-* [OpenJSCAD](https://github.com/jscad/OpenJSCAD.org)
+* [JSCAD](https://github.com/jscad/OpenJSCAD.org)
+    * previously known as OpenJSCAD, online self-hosteable web-based ui & CLI. 📢 
     * 👀 Live Demo: [https://openjscad.xyz]()
 * [Blender](https://github.com/elasticdotventures/blender-openSCAD)
 
