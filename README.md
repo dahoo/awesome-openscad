@@ -35,19 +35,16 @@ A collection of awesome OpenSCAD resources
 * [OpenCascade]()
 
 # 👋 Platforms supporting OpenSCAD syntax
-// TODO: this should be a table
-* [openscad]() 
-* [freecad]()
-* [cadhub]()
-* [jsopenscad]()
-* [elasticdotventures/blender-openSCAD]()
+// TODO: this should be a table suggesting environments & differences
+* [OpenSCAD](https://github.com/openscad/openscad)
+* [FreeCAD](https://github.com/FreeCAD/FreeCAD)
+* [Visual Studio Code](https://github.com/Antyos/vscode-openscad)
+* [cadhub](https://github.com/Irev-Dev/cadhub)
+* [OpenJSCAD](https://github.com/jscad/OpenJSCAD.org)
+* [Blender](https://github.com/elasticdotventures/blender-openSCAD)
 
-* https://www.youtube.com/watch?v=aZq8ZlmqHJo
-
-
-------------------------------
-
-### Libraries/websites (original list)
+# 🍰 Parametric Geometry Syntax Sugar
+### Libraries
  - [2D connection library](https://www.youmagine.com/designs/openscad-2d-connection-library)
  - [BOLTS: Open Library of Technical Specifications](http://www.bolts-library.org)
  - [Celtic Knots](https://github.com/beanz/celtic-knot-scad)
@@ -56,25 +53,6 @@ A collection of awesome OpenSCAD resources
  - [Threads](http://dkprojects.net/openscad-threads)
  - [U-Joint Library](https://www.thingiverse.com/thing:125939)
  - [Utility libraries](https://github.com/OskarLinde/scad-utils)
-
-## Language Bindings
-- compositional openSCAD transpilation & visualization
-  
-### RUST.🦀
-https://github.com/TheZoq2/Rust-Scad
-
-### Python.🐍
-https://github.com/taxpon/openpyscad
-    * https://github.com/mrkoz/python-threaded-openscad
-    * Projects
-        * https://awesomeopensource.com/project/karosc/pyDactyl
-        * https://github.com/r4dr3fr4d/pykeeb
-
-# TypeScript.🦄
-    * (https://github.com/scad-js/scad-js)
-    * code formatter
-        * (https://github.com/Maxattax97/openscad-format)
-    * (https://www.npmjs.com/package/nodescad)
 
 
 ## Ubiqutious OpenSCAD 😎
@@ -118,7 +96,31 @@ https://github.com/tanius/openscad-models
 * openJoystick 🕹️
     https://www.youtube.com/watch?v=GIY6-3KwIS8&list=PLC66292176B625E2A
 
-# Creating (the process)
+
+
+
+# Language Bindings
+- compositional openSCAD transpilation & visualization  
+### 🦀.RUST
+https://github.com/TheZoq2/Rust-Scad
+
+### 🐍.Python
+https://github.com/taxpon/openpyscad
+    * https://github.com/mrkoz/python-threaded-openscad
+    * Projects
+        * https://awesomeopensource.com/project/karosc/pyDactyl
+        * https://github.com/r4dr3fr4d/pykeeb
+
+### 🦄.TypeScript
+    * (https://github.com/scad-js/scad-js)
+    * code formatter
+        * (https://github.com/Maxattax97/openscad-format)
+    * (https://www.npmjs.com/package/nodescad)
+
+
+
+
+# Tutorials / Creating (the process)
     https://mirmik.github.io/zencad/en/index.html
     * https://www.youtube.com/watch?v=tOx5UI8GGns
     * https://github.com/benjaminwand/cookie-cutters
