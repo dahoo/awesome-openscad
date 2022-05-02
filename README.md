@@ -31,8 +31,8 @@ A collection of awesome OpenSCAD resources
 
 
 ## 😘 Acknowledge Related Systems & Similar Platforms
-* 🐍.python [CadQuery/cadquery]()
-* [OpenCascade]()
+* 🐍.python [CadQuery/cadquery]() - a popular python centric dialect that is turing complete and therefore perhaps better suited for systems coding & simulation. 
+* C++ [OpenCascade]() - a wholly separate but similar distant cousin of OpenSCAD. 
 
 # 👋 Platforms supporting OpenSCAD syntax
 // TODO: this should be a table suggesting environments & differences
@@ -40,7 +40,9 @@ A collection of awesome OpenSCAD resources
 * [FreeCAD](https://github.com/FreeCAD/FreeCAD)
 * [Visual Studio Code](https://github.com/Antyos/vscode-openscad)
 * [cadhub](https://github.com/Irev-Dev/cadhub)
+    * 👀 Live Demo: [https://cadhub.xyz/]()
 * [OpenJSCAD](https://github.com/jscad/OpenJSCAD.org)
+    * 👀 Live Demo: [https://openjscad.xyz]()
 * [Blender](https://github.com/elasticdotventures/blender-openSCAD)
 
 # 🍰 Parametric Geometry Syntax Sugar
