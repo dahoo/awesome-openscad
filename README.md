@@ -1,6 +1,18 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-Trying to bring harmony to OpenSCAD
+## Goal
+Attempting to bring more awesomeness & harmony to the OpenSCAD community. 
+
+
+[![Project Status: WIP – Initial development is in progress, but there has not yet been a stable, usable release suitable for the public.](https://www.repostatus.org/badges/latest/wip.svg)](https://www.repostatus.org/#wip)
+
+I am marking this project as WIP planning for a better awesome-list.   An even awesomer openSCAD object/tool library 'embeddable awesome browser' & object discovery & repo package manager.  
+
+Using RUST & git, perhaps based on RUST spacedrive that is updating with compatible projects built into this awesome list.  
+
+The intention is to make something that is one unified repo for openSCAD package objects (similar to a npmjs.org pip, but using RUST cargo)
+
+If you have an openscad project and would like to be part of this list please add your project and stay tuned. 
 
 # awesome-openscad [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A collection of awesome OpenSCAD resources
