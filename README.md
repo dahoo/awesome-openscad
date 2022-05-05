@@ -30,6 +30,7 @@ A collection of awesome OpenSCAD resources
 * CadHub Discord: (see page for link)
 
 
+
 ## 😘 Acknowledge Related Systems & Similar Platforms
 * 🐍.python [CadQuery/cadquery]() - a popular python centric dialect that is turing complete and therefore perhaps better suited for systems coding & simulation. 
 * C++ [OpenCascade]() - a wholly separate but similar distant cousin of OpenSCAD. 
@@ -109,6 +110,10 @@ https://github.com/tanius/openscad-models
 - compositional openSCAD transpilation & visualization  
 ### 🦀.RUST
 https://github.com/TheZoq2/Rust-Scad
+
+### WASM
+https://github.com/openscad/openscad-wasm
+
 
 ### 🐍.Python
 https://github.com/taxpon/openpyscad
@@ -415,3 +420,5 @@ https://github.com/Verkhovskaya/PyCAD
 https://www.thingiverse.com/thing:689564
 https://github.com/hyperair/fan-blades/issues
 
+https://github.com/revk/PCBCase
+https://cults3d.com/en/users/JustinSDK/creations?page=2
