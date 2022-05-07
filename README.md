@@ -8,9 +8,9 @@ Attempting to bring more awesomeness & harmony to the OpenSCAD community.
 
 I am marking this project as WIP planning for a better awesome-list.   An even awesomer openSCAD object/tool library 'embeddable awesome browser' & object discovery & repo package manager.  
 
-Using RUST & git, perhaps based on RUST spacedrive that is updating with compatible projects built into this awesome list.  
+Backend: RUST cargo + git, looking at spacedrive to host.  
 
-The intention is to make something that is one unified repo for openSCAD package objects (similar to a npmjs.org pip, but using RUST cargo)
+The WIP is to create a unified repo to download openSCAD package objects (similar to a npmjs.org pip, but using RUST cargo)
 
 If you have an openscad project and would like to be part of this list please add your project and stay tuned. 
 
@@ -57,6 +57,7 @@ A collection of awesome OpenSCAD resources
 * [Netbeans, VIM, Emacs, Atom]()
 <<<<<<< Updated upstream
     * 👎 unmaintained, possibly working: https://github.com/openscad/openscad/pull/3635  (29 commits ahead, 1038 commits behind master at time of writing)
+<<<<<<< HEAD
 =======
     * 👎 unmaintained, possibly working: https://github.com/openscad/openscad/pull/3635  👀 [Tomatower/openscad](https://github.com/Tomatower/openscad) (29 commits ahead, 1038 commits behind master at time of writing)
 * [RapCAD]()
@@ -66,6 +67,10 @@ A collection of awesome OpenSCAD resources
 * openscad.cloud by Autodrop3d
 >>>>>>> Stashed changes
 
+=======
+* [ZenCAD](https://mirmik.github.io/zencad/en/index.html) a Python based OpenSCAD editor
+    
+>>>>>>> 249cc2a0c568ca3efeb4100f2257841f75e7d10b
 # 🍰 Parametric Geometry Syntax Sugar
 ### Libraries
  - [2D connection library](https://www.youmagine.com/designs/openscad-2d-connection-library)
@@ -148,7 +153,7 @@ https://github.com/taxpon/openpyscad
 
 
 # Tutorials / Creating (the process)
-    https://mirmik.github.io/zencad/en/index.html
+    * creating a shed programmatically https://youtu.be/P_bvWR-brc8
     * https://www.youtube.com/watch?v=tOx5UI8GGns
     * https://github.com/benjaminwand/cookie-cutters
 
