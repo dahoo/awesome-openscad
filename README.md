@@ -30,10 +30,17 @@ A collection of awesome OpenSCAD resources
 * CadHub Discord: (see page for link)
 
 
+<<<<<<< Updated upstream
 
 ## 😘 Acknowledge Related Systems & Similar Platforms
+=======
+## 😘 Acknowledge Friends of SCAD
+* [Fornjot](https://www.fornjot.app/) built in RUST, similar to OpenSCAD with boundary representation.
+>>>>>>> Stashed changes
 * 🐍.python [CadQuery/cadquery]() - a popular python centric dialect that is turing complete and therefore perhaps better suited for systems coding & simulation. 
 * C++ [OpenCascade]() - a wholly separate but similar distant cousin of OpenSCAD. 
+* [ImplicitCAD]() may not use OpenSCAD (can't tell)
+
 
 # 👋 Platforms supporting OpenSCAD syntax
 // TODO: this should be a table suggesting environments & differences
@@ -48,7 +55,16 @@ A collection of awesome OpenSCAD resources
     * 👀 Live Demo: [https://cadhub.xyz/]()
 * [Blender](https://github.com/elasticdotventures/blender-openSCAD)
 * [Netbeans, VIM, Emacs, Atom]()
+<<<<<<< Updated upstream
     * 👎 unmaintained, possibly working: https://github.com/openscad/openscad/pull/3635  (29 commits ahead, 1038 commits behind master at time of writing)
+=======
+    * 👎 unmaintained, possibly working: https://github.com/openscad/openscad/pull/3635  👀 [Tomatower/openscad](https://github.com/Tomatower/openscad) (29 commits ahead, 1038 commits behind master at time of writing)
+* [RapCAD]()
+* [Libre 3D]()
+* [BlocksCAD]
+* Models @ MakeWithTech
+* openscad.cloud by Autodrop3d
+>>>>>>> Stashed changes
 
 # 🍰 Parametric Geometry Syntax Sugar
 ### Libraries
