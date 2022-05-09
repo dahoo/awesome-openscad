@@ -8,9 +8,9 @@ Attempting to bring more awesomeness & harmony to the OpenSCAD community.
 
 I am marking this project as WIP planning for a better awesome-list.   An even awesomer openSCAD object/tool library 'embeddable awesome browser' & object discovery & repo package manager.  
 
-Backend: RUST cargo + git, looking at spacedrive to host.  
+Using RUST & git, perhaps based on RUST spacedrive that is updating with compatible projects built into this awesome list.  
 
-The WIP is to create a unified repo to download openSCAD package objects (similar to a npmjs.org pip, but using RUST cargo)
+The intention is to make something that is one unified repo for openSCAD package objects (similar to a npmjs.org pip, but using RUST cargo)
 
 If you have an openscad project and would like to be part of this list please add your project and stay tuned. 
 
@@ -30,13 +30,8 @@ A collection of awesome OpenSCAD resources
 * CadHub Discord: (see page for link)
 
 
-<<<<<<< Updated upstream
-
-## 😘 Acknowledge Related Systems & Similar Platforms
-=======
 ## 😘 Acknowledge Friends of SCAD
 * [Fornjot](https://www.fornjot.app/) built in RUST, similar to OpenSCAD with boundary representation.
->>>>>>> Stashed changes
 * 🐍.python [CadQuery/cadquery]() - a popular python centric dialect that is turing complete and therefore perhaps better suited for systems coding & simulation. 
 * C++ [OpenCascade]() - a wholly separate but similar distant cousin of OpenSCAD. 
 * [ImplicitCAD]() may not use OpenSCAD (can't tell)
@@ -57,7 +52,6 @@ A collection of awesome OpenSCAD resources
 * [Netbeans, VIM, Emacs, Atom]()
 <<<<<<< Updated upstream
     * 👎 unmaintained, possibly working: https://github.com/openscad/openscad/pull/3635  (29 commits ahead, 1038 commits behind master at time of writing)
-<<<<<<< HEAD
 =======
     * 👎 unmaintained, possibly working: https://github.com/openscad/openscad/pull/3635  👀 [Tomatower/openscad](https://github.com/Tomatower/openscad) (29 commits ahead, 1038 commits behind master at time of writing)
 * [RapCAD]()
@@ -67,10 +61,6 @@ A collection of awesome OpenSCAD resources
 * openscad.cloud by Autodrop3d
 >>>>>>> Stashed changes
 
-=======
-* [ZenCAD](https://mirmik.github.io/zencad/en/index.html) a Python based OpenSCAD editor
-    
->>>>>>> 249cc2a0c568ca3efeb4100f2257841f75e7d10b
 # 🍰 Parametric Geometry Syntax Sugar
 ### Libraries
  - [2D connection library](https://www.youmagine.com/designs/openscad-2d-connection-library)
@@ -82,10 +72,16 @@ A collection of awesome OpenSCAD resources
  - [U-Joint Library](https://www.thingiverse.com/thing:125939)
  - [Utility libraries](https://github.com/OskarLinde/scad-utils)
 
+## Functional
+* https://github.com/thehans/FunctionalOpenSCAD
+* https://github.com/thehans/funcutils
+    functional openscad
+
+
 
 ## Ubiqutious OpenSCAD 😎
 - popular & useful Libraries/tool-kits
-  
+
 * https://github.com/htho/scadlib
 * dotSCAD v3.2
     https://github.com/JustinSDK/dotSCAD
@@ -153,7 +149,7 @@ https://github.com/taxpon/openpyscad
 
 
 # Tutorials / Creating (the process)
-    * creating a shed programmatically https://youtu.be/P_bvWR-brc8
+    https://mirmik.github.io/zencad/en/index.html
     * https://www.youtube.com/watch?v=tOx5UI8GGns
     * https://github.com/benjaminwand/cookie-cutters
 
@@ -444,4 +440,5 @@ https://github.com/hyperair/fan-blades/issues
 https://github.com/revk/PCBCase
 https://cults3d.com/en/users/JustinSDK/creations?page=2
 https://en.wikibooks.org/wiki/OpenSCAD_Tutorial
+https://github.com/rcolyer/smooth-prim
 https://github.com/rcolyer/smooth-prim
