@@ -442,3 +442,5 @@ https://cults3d.com/en/users/JustinSDK/creations?page=2
 https://en.wikibooks.org/wiki/OpenSCAD_Tutorial
 https://github.com/rcolyer/smooth-prim
 https://github.com/rcolyer/smooth-prim
+https://github.com/dzhu/openscad-language-server
+https://github.com/Leathong/openscad-LSP
